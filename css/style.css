@@ -14,7 +14,7 @@ body{
         max-width:678px;
         margin: auto;
         background: #000000;
-        color: #333; 
+        color: #f1f1f1; 
     
 }
     
@@ -54,8 +54,8 @@ header h2 {
 }
 
 .intro {
-    font-size: 1.4em
-    color: #FFFFFF
+    font-size: 1.4em;
+    color: #fff
 
 }
 
